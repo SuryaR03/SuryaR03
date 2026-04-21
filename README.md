@@ -67,8 +67,6 @@
 </p>
 <br/>
 
-### 🐍 My Contribution Graph Snake
-![Snake animation](https://github.com/Bavan23/Bavan23/blob/output/snake.svg)
 
 <h3 align="left">📈   My Stats :</h3>
 
